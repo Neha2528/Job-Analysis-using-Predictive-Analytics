@@ -6,6 +6,8 @@
 •	**Phase V** – Suggestions :  The threshold set by us in the system is 60%. If the user gets evaluated below 60%. He will be given a suggestion list of two set of links. Firstly, all freely available website links of the subject in which he fails. Secondly, the YouTube links of good channels. The study material is usually scattered, our system has it in one place so that the user need not perform a search for any topic. Also, we have given an option depending on the user interest he can learning using videos or can learn by reading. Hence, the user can use our given suggestion list for self-study and can get prepared and give quiz again and evaluate himself and keep learning.
 For the students who acquire scores above 60% they can continue learning and getting advance in a particular area by the suggestion list given by us. The suggestion list contains 2 types of resource. Firstly, the websites who offer free courses for core knowledge of the subject. Secondly, for development of their coding we have listed the coding websites who have many exercises, assignments for any programming language user wishes to learn. These websites not only train the user from scratch but also builds their programming skills. Hence, our system aims for the students over all development and pushes them to keep learning more. Also, keeping in mind the user’s faults and errors opens a lot of resources and option to explore.
 
+Technologies: HTML, CSS, Javascript, analytics Knime Analytics Tool
+
 ## Flow-Chart
 ![image](https://user-images.githubusercontent.com/64465272/126047261-0464e361-b008-43d3-abd9-27411faa71a4.png)
 ![image](https://user-images.githubusercontent.com/64465272/126047262-f1f4d3be-2d98-491a-96c6-cc47327ca5ec.png)
