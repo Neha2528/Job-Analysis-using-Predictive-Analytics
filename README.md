@@ -7,5 +7,22 @@
 For the students who acquire scores above 60% they can continue learning and getting advance in a particular area by the suggestion list given by us. The suggestion list contains 2 types of resource. Firstly, the websites who offer free courses for core knowledge of the subject. Secondly, for development of their coding we have listed the coding websites who have many exercises, assignments for any programming language user wishes to learn. These websites not only train the user from scratch but also builds their programming skills. Hence, our system aims for the students over all development and pushes them to keep learning more. Also, keeping in mind the user’s faults and errors opens a lot of resources and option to explore.
 
 ## Flow-Chart
-
+![image](https://user-images.githubusercontent.com/64465272/126047261-0464e361-b008-43d3-abd9-27411faa71a4.png)
+![image](https://user-images.githubusercontent.com/64465272/126047262-f1f4d3be-2d98-491a-96c6-cc47327ca5ec.png)
 # Screen Shots
+![image](https://user-images.githubusercontent.com/64465272/126047268-7f6037e2-bad2-4db6-b0b3-bb9ac593808d.png)
+![image](https://user-images.githubusercontent.com/64465272/126047269-5e76ca86-6647-40bc-a080-fb6bc047bacf.png)
+![image](https://user-images.githubusercontent.com/64465272/126047271-8216366e-f3f5-48a5-a1d5-e42dd5d057e5.png)
+![image](https://user-images.githubusercontent.com/64465272/126047276-26538859-7035-4b28-9601-85d4abc9eed7.png)
+![image](https://user-images.githubusercontent.com/64465272/126047278-6d17216f-f53c-4b92-9f11-d26b20191d20.png)
+![image](https://user-images.githubusercontent.com/64465272/126047281-d181d6f9-0597-4e1a-a76f-b26588ce595f.png)
+![image](https://user-images.githubusercontent.com/64465272/126047288-a3b0b6d0-ea6b-4679-80ad-cb3de802d292.png)
+![image](https://user-images.githubusercontent.com/64465272/126047289-eb68b6b4-c66a-4249-a030-626a7a04e4b4.png)
+![image](https://user-images.githubusercontent.com/64465272/126047293-48206694-9534-47c4-812f-65259d8f2108.png)
+![image](https://user-images.githubusercontent.com/64465272/126047294-9e6eed48-1bf5-4b85-9a90-4cf27aeb05a4.png)
+
+## Knime Tool 
+![image](https://user-images.githubusercontent.com/64465272/126047299-7ae5a621-15a4-49a4-8b5d-68e739c40e80.png)
+![image](https://user-images.githubusercontent.com/64465272/126047300-deeb39c4-b875-462c-8aa1-2c91ee4ca193.png)
+![image](https://user-images.githubusercontent.com/64465272/126047302-5d6772cb-29fd-4f67-846a-18609c3f78d7.png)
+![image](https://user-images.githubusercontent.com/64465272/126047304-cbc63575-3133-4acc-a1db-09bd471b953c.png)
